@@ -25,7 +25,7 @@ ABOUT = load_about()
 
 
 setup(
-    name="tutor-indigo",
+    name="tutor-indigo-chtc",
     version=ABOUT["__package_version__"],
     url="https://github.com/overhangio/tutor-indigo",
     project_urls={
